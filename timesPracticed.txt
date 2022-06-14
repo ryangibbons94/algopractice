@@ -1,0 +1,8 @@
+name - times practiced - scale of 1-10 could i do it during interview easliy(10 being yeah 1 being no)
+string reversal - 2 - 10
+palindromes - 2 - 10
+integer reversal - 2 - 8
+maxchars - 2 - 7
+fizzbuzz - 2 - 9
+array chunking - 1
+anagrams - 0
