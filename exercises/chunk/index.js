@@ -11,3 +11,37 @@
 function chunk(array, size) {}
 
 module.exports = chunk;
+
+//hint below
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+//hint: while loop, array.push and array.slice
