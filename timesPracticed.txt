@@ -4,5 +4,6 @@ palindromes - 2 - 10
 integer reversal - 2 - 8
 maxchars - 3 - 7
 fizzbuzz - 2 - 9
-array chunking - 2
-anagrams - 0
+array chunking - 2 - 7
+anagrams - 3 - 6
+capitalize - 2 - 9

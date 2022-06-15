@@ -10,4 +10,36 @@
 
 function anagrams(stringA, stringB) {}
 
+// hint below
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+// hint: helper function to use regex and get rid of non alpha characters, put in Array, sort and compare string version
+
 module.exports = anagrams;
