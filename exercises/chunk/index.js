@@ -9,6 +9,8 @@
 // chunk([1, 2, 3, 4, 5], 10) --> [[ 1, 2, 3, 4, 5]]
 
 function chunk(array, size) {}
+//take in an array and an integer
+//return an array of arrays, each one with a max size of the integer(values in the same given order)
 
 module.exports = chunk;
 
