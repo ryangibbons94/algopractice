@@ -8,3 +8,8 @@ array chunking - 3 - 7
 anagrams - 4 - 7
 capitalize - 3 - 9
 steps - 2 -5
+
+need to practice still(again)
+maxchars
+array chunking
+anagrams

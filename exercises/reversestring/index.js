@@ -10,12 +10,6 @@
 //   return str.split("").reverse().join("");
 // }
 
-// function reverse(str) {
-//   let arr = "";
-//   for (let char of str) {
-//     arr = char + arr;
-//   }
-//   return arr;
-// }
+function reverse(str) {}
 
 module.exports = reverse;
